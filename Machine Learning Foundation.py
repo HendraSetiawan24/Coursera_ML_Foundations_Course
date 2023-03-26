@@ -1,10 +1,3 @@
-#Week 1
-
-#Model Representation
-#Learn to implement the model  𝑓𝑤,𝑏
-#for linear regression with one variable
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 # plt.style.use("./deeplearning.mplstyle")
